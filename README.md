@@ -8,6 +8,8 @@ This project aims to segment blood vessels in retina images using a U-Net model.
 - **Training**: The model was trained for **100 epochs** on a Kaggle P100 GPU.
 
 ### Sample Results
+Three samples of the model output. The images from left to right are: input image, true mask, and predicted mask.
+
 ![01_test](https://github.com/user-attachments/assets/080a1bdc-39dd-4481-8f5b-95a3282d1412)
 ![02_test](https://github.com/user-attachments/assets/d8bcdb1f-665a-4b66-a57e-6e4b79f7e517)
 ![17_test](https://github.com/user-attachments/assets/f47dc233-b202-407e-a2ab-a684a3fcd10c)
